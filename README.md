@@ -1,4 +1,8 @@
 # Perceptron
 Perceptron Implementation 
-ui
+sd
+
+ui ads
+
+
 Perceptron is a basic machine learning model..
