@@ -1,0 +1,8 @@
+percep.m 		Perceptron学习规则算法实现主程序
+percep_sub.m	 	percep.m调用的解决子问题的程序
+hard_limit.m		硬极限函数
+lms.m			LMS算法实现主程序
+lms_sub.m		lms.m调用的解决子问题的程序
+plot_line.m		图形化表示模块
+
+运行percep.m和lms.m即显示结果，等待的十几秒钟几乎全部用在着色上
