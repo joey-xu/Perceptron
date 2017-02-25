@@ -1,8 +1,3 @@
 # Perceptron
-Perceptron Implementation 
-sd
-hhhh
-ui ads
-
-
-Perceptron is a basic machine learning model..
+    percep.m 		    Main
+    lms.m			    Least Mean Square(LMS) algorithm Main
